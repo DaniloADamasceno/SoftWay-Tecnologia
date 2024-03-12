@@ -6,6 +6,8 @@
 </div>
  </br> </br>
 
+ [![Repository Views](https://komarev.com/ghpvc/?username=DaniloADamascenoSoftWay&label=Views&color=brightgreen)](https://github.com/DaniloADamasceno/SoftWay-Tecnologia)
+
 Projeto de uma Assessoria Esportiva
 onde.
 Dedicada a fornecer orientação especializada e suporte individualizado para corredores de todos os níveis de habilidade.
